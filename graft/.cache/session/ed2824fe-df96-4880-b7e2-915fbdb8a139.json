@@ -1,0 +1,9 @@
+{
+  "lastQuery": "crée une section pour les tarifs, respect le style appliqué : \n\n<pasted_content id=\"a1cf\">\nPrestation\n\nTarif horaire HT\n\nT1 — Entretien courant\n\n60 € / heure\n\nT2 — Mécanique générale\n\n65 € / heure\n\nT3 — Haute technicité et diagnostic\n\n70 € / heure\n\nPeinture\n\n70 € / heure\n\nTVA non applicable\n</pasted_content id=\"a1cf\">",
+  "perAgentQuery": {},
+  "graftReads": 0,
+  "sourceReads": 0,
+  "savedTokens": 0,
+  "injectedPointers": [],
+  "nudges": 0
+}
